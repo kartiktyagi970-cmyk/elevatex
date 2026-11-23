@@ -144,7 +144,7 @@ export const services: Service[] = [
       "Workflow & CRM Automation",
     ],
     icon: "system",
-    meta: "Business Management Package ₹7,499",
+    meta: "Business Management Package ₹15,500",
   },
 ];
 
@@ -235,7 +235,7 @@ export const packages = [
     slug: "digital-marketing",
     kicker: "Grow your business online",
     title: "Digital Marketing Package",
-    price: "₹7,499",
+    price: "₹15,500",
     compareAt: null as string | null,
     badge: null as string | null,
     includes: ["Digital marketing", "Social media", "Ads that convert", "Lead generation"],
@@ -246,7 +246,7 @@ export const packages = [
     slug: "business-management",
     kicker: "Manage your business. Grow with confidence.",
     title: "Business Management Package",
-    price: "₹7,499",
+    price: "₹15,500",
     compareAt: null,
     badge: null,
     includes: ["Business strategy", "Operations", "Growth planning", "Reporting support"],
@@ -257,8 +257,8 @@ export const packages = [
     slug: "combo-offer",
     kicker: "Two courses. One powerful package.",
     title: "Combo Offer",
-    price: "₹13,999",
-    compareAt: "₹14,998",
+    price: "₹30,000",
+    compareAt: "₹31,000",
     badge: "Limited time offer",
     includes: [
       "Digital Marketing Package",
@@ -331,15 +331,15 @@ export const faqs = [
   },
   {
     q: "What is included in the Digital Marketing Package?",
-    a: "The ₹7,499 Digital Marketing Package covers digital marketing, social media, ads that convert and lead generation — built to help you grow your business online.",
+    a: "The ₹15,500 Digital Marketing Package covers digital marketing, social media, ads that convert and lead generation — built to help you grow your business online.",
   },
   {
     q: "What is included in the Business Management Package?",
-    a: "The ₹7,499 Business Management Package focuses on business strategy, operations and growth planning, so you can manage your business and grow with confidence.",
+    a: "The ₹15,500 Business Management Package focuses on business strategy, operations and growth planning, so you can manage your business and grow with confidence.",
   },
   {
     q: "Can I take both packages together?",
-    a: "Yes. The Combo Offer brings both courses into one powerful package for ₹13,999 instead of ₹14,998. It includes learning at your pace, a certificate of completion, lifetime support and skills for real careers. It is a limited time offer.",
+    a: "Yes. The Combo Offer brings both courses into one powerful package for ₹30,000 instead of ₹31,000. It includes learning at your pace, a certificate of completion, lifetime support and skills for real careers. It is a limited time offer.",
   },
   {
     q: "Do you work with clients outside Haryana?",
@@ -360,9 +360,9 @@ export const serviceOptions = [
 
 export const budgetOptions = [
   "Website design (₹20K – ₹30K)",
-  "Digital Marketing Package (₹7,499)",
-  "Business Management Package (₹7,499)",
-  "Combo Offer (₹13,999)",
+  "Digital Marketing Package (₹15,500)",
+  "Business Management Package (₹15,500)",
+  "Combo Offer (₹30,000)",
   "SEO / Meta Ads / Video editing",
   "Not sure yet — advise me",
 ];

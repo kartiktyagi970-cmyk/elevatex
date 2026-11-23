@@ -45,7 +45,7 @@ export function SiteHeader() {
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-gold-soft" />
             </span>
             <span className="hidden sm:inline">Limited time offer</span>
-            <span className="text-gold-soft/90">Combo Offer · Both packages ₹13,999</span>
+            <span className="text-gold-soft/90">Combo Offer · Both packages ₹30,000</span>
           </Link>
           <div className="flex items-center gap-5">
             <a href={site.contact.phoneHref} className="hidden items-center gap-2 transition-colors hover:text-gold-soft sm:flex">

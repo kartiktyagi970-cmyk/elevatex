@@ -10,7 +10,7 @@ import { capabilityGroups, faqs, processSteps, services } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Services — Websites, SEO, Meta Ads & Video",
   description:
-    "Website development, social media marketing, SEO, Meta ads, video editing and business systems — from ₹7,499 packages to custom scopes.",
+    "Website development, social media marketing, SEO, Meta ads, video editing and business systems — from ₹15,500 packages to custom scopes.",
   alternates: { canonical: "/services" },
   openGraph: {
     title: "ElevateX Digital services",
@@ -124,7 +124,7 @@ export default function ServicesPage() {
             <div className="mt-7 flex flex-wrap items-center gap-3 border border-gold/20 bg-gold/[0.04] px-5 py-4">
               <Star className="h-3 w-3 text-gold" />
               <p className="text-[0.72rem] leading-relaxed text-mist/80">
-                The Combo Offer is a limited time offer: two courses, one powerful package, ₹13,999 instead of ₹14,998.
+                The Combo Offer is a limited time offer: two courses, one powerful package, ₹30,000 instead of ₹31,000.
               </p>
               <Link href="/contact?interest=combo-offer" className="ml-auto text-[0.62rem] font-semibold uppercase tracking-[0.16em] text-gold-soft">
                 Claim the combo →

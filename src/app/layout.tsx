@@ -95,7 +95,7 @@ const jsonLd = {
       email: site.contact.email,
       telephone: site.contact.phoneDisplay,
       slogan: site.promise,
-      priceRange: "₹7,499 – ₹30,000",
+      priceRange: "₹15,500 – ₹30,000",
       founder: {
         "@type": "Person",
         name: site.contact.founderName,
@@ -111,9 +111,9 @@ const jsonLd = {
       sameAs: [site.contact.instagramUrl, site.contact.website],
       makesOffer: [
         { "@type": "Offer", name: "Website Design", priceCurrency: "INR", description: "Modern, responsive website design from ₹20K – ₹30K (negotiable)." },
-        { "@type": "Offer", name: "Digital Marketing Package", price: "7499", priceCurrency: "INR" },
-        { "@type": "Offer", name: "Business Management Package", price: "7499", priceCurrency: "INR" },
-        { "@type": "Offer", name: "Combo Offer", price: "13999", priceCurrency: "INR" },
+        { "@type": "Offer", name: "Digital Marketing Package", price: "15500", priceCurrency: "INR" },
+        { "@type": "Offer", name: "Business Management Package", price: "15500", priceCurrency: "INR" },
+        { "@type": "Offer", name: "Combo Offer", price: "30000", priceCurrency: "INR" },
       ],
     },
     {

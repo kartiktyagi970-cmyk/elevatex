@@ -29,8 +29,8 @@ const sections: LegalSection[] = [
     heading: "Quotes, packages and pricing",
     list: [
       "Website design is published at ₹20K – ₹30K and is negotiable. The final price depends on scope, features and pages, and is confirmed in writing before work begins.",
-      "The Digital Marketing Package and Business Management Package are published at ₹7,499 each.",
-      "The Combo Offer is published at ₹13,999 (instead of ₹14,998) and is marked as a limited time offer. Availability may change.",
+      "The Digital Marketing Package and Business Management Package are published at ₹15,500 each.",
+      "The Combo Offer is published at ₹30,000 (instead of ₹31,000) and is marked as a limited time offer. Availability may change.",
       "Prices on the website reflect the offers we publish and may be updated. Prices are exclusive of any third-party platform costs, such as advertising budgets, domains, hosting or paid software, unless we say otherwise in writing.",
       "No offer is binding until we confirm it in writing and, where applicable, receive the agreed payment.",
     ],
